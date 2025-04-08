@@ -1,9 +1,16 @@
-
+.container__menu-bar{
+  display: flex;
+  justify-content: center;
+}
 .container__menu-bar > ul{
   display: flex;
-  flex-direction: row;
+  flex-direction: center;
+  padding: 0; /* Remove o padding padrão da lista */
+  margin: 0 auto;
+
 }
 .container__menu-bar > ul > li{
   margin-right: 20px;
   list-style: none;
+  align-items: center;
 }
