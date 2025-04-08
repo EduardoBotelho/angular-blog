@@ -1,0 +1,29 @@
+.container__menu-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #f8f9fa;
+}
+.container__menu-title > h1{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 135px;
+  display: flex;
+  justify-content: center;
+}
+.container__menu-title > h1{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 135px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+.container__menu-title > hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 135px;
+  display: flex;
+  justify-content: center;
+}
